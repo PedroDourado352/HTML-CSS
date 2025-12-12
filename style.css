@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo{
+    font-size: 2.5rem;
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.paragrafo{
+    margin-top: 50px;
+    padding-left: 10px;
+    font-size: 30px;
+    color: #666;
+} 
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form{
+    display: grid;
+}
+
+
+/* Unidade de Medida
+● px (pixels)
+● % (porcentagem)
+● rem
+● em
+● entre outros */
+
+/* BOX MODEL
+1. Elemento é considerado como uma caixa retangular.
+Dividido em quatro áreas:
+Conteúdo (content);
+Preenchimento (padding);
+Borda (border);
+Margem (margin).
+Abrir site e verificar no navegador */
+
+/* propriedades para controlar o posicionamento:
+position;
+top;
+right;
+bottom;
+left; e
+z-index. */
+
+/* Texto e Tipografia
+● color
+● text-decoration
+● font-family;
+● font-size;
+● font-weight;
+● font-style. */
+
+
+/* background
+● text-align
+● width
+● height
+● border-radius */
+
+
+/* 1. Display flex e grid
+2. Estilização de texto
+3. Estilização de botões
+4. Estilização de inputs
+5. Estilização de imagens */
+
+
+/* Estilos adicionais podem ser adicionados aqui */
+/* Estilos adicionais podem ser adicionados aqui */
+/* Estilos adicionais podem ser adicionados aqui */
