@@ -5,16 +5,16 @@
 }
 
 .titulo{
-    font-size: 2.5rem;
+    font-size: 2.5rem; 
     color: #333;
-    text-align: center;
+    text-align: center; 
     margin: 20px 0;
 }
 
 .paragrafo{
     margin-top: 50px;
     padding-left: 10px;
-    font-size: 30px;
+    font-size: 30px; 
     color: #666;
 } 
 
