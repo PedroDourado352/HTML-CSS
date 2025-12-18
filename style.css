@@ -5,27 +5,27 @@
 }
 
 .titulo{
-    font-size: 2.5rem; 
-    color: #333;
-    text-align: center; 
-    margin: 20px 0;
-}
+    font-size: 2.5rem; /* Define o tamanho da fonte como 2.5rem (2.5 vezes o tamanho da fonte raiz do documento, geralmente 16px, resultando em 40px) */
+    color: #333;   /* Define a cor do texto  */
+    text-align: center;   /* Alinha o texto ao centro horizontalmente */
+    margin: 20px 0;    /*  Adiciona margem de 20px acima e abaixo do elemento (superior/inferior), e 0px nas laterais (esquerda/direita) */
+} 
 
 .paragrafo{
-    margin-top: 50px;
-    padding-left: 10px;
-    font-size: 30px; 
-    color: #666;
+    margin-top: 50px;    /*  Adiciona margem de 50px acima do elemento */
+    padding-left: 10px;    /*  Adiciona preenchimento de 10px à esquerda do elemento */
+    font-size: 30px;   /* Define o tamanho da fonte como 30px */
+    color: #666;    /* Define a cor do texto */
 } 
 
 .menu{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    display: flex;    /* Transforma o elemento em um container flexível (flex container), permitindo que seus filhos sejam organizados de forma flexível usando o modelo de layout Flexbox */
+    align-items: center;     /* Alinha os itens no centro do eixo transversal (verticalmente, se o eixo principal for horizontal) */
+    justify-content: space-between;    /* Distribui os itens com espaço igual entre eles ao longo do eixo principal (horizontalmente, se o eixo principal for horizontal) */
 }
 
 .form{
-    display: grid;
+    display: grid;     /* Transforma o elemento em um container de grade (grid container), permitindo que seus filhos sejam organizados em um layout de grade bidimensional */
 }
 
 
