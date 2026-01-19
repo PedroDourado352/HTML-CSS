@@ -1,233 +1,232 @@
-📘 Repositório Público para Estudos de HTML, CSS e JavaScript
+📘 Repositório de Estudos — HTML, CSS e JavaScript
 
 Este repositório tem como objetivo o estudo e a prática dos principais conceitos de HTML, CSS e JavaScript, abordando estrutura, estilização e interatividade no desenvolvimento web.
 
 🌐 HTML — Estrutura do Documento
 🧱 Estrutura básica
 
-<html> — Elemento raiz do documento HTML, envolve todo o conteúdo da página.
+<html> — Elemento raiz do documento HTML, envolve todo o conteúdo da página
 
-<head> — Contém metadados e configurações do documento (não é exibido visualmente).
+<head> — Contém metadados e configurações do documento (não exibido visualmente)
 
-<title> — Define o título da página (exibido na aba do navegador).
+<title> — Define o título da página (aba do navegador)
 
-<meta> — Define informações como charset, viewport, autor e descrição.
+<meta> — Charset, viewport, autor, descrição, etc.
 
-<link> — Vincula arquivos externos, como folhas de estilo CSS.
+<link> — Vincula arquivos externos (CSS, favicon, etc.)
 
-<style> — Permite escrever CSS diretamente no HTML.
+<style> — Permite escrever CSS diretamente no HTML
 
-<script> — Usada para incluir ou escrever código JavaScript.
+<script> — Inclui ou escreve código JavaScript
 
-<body> — Contém todo o conteúdo visível da página.
+<body> — Contém todo o conteúdo visível da página
 
 🧭 Tags semânticas (HTML5)
 
-<header> — Cabeçalho da página ou de uma seção.
+<header> — Cabeçalho da página ou seção
 
-<nav> — Área de navegação (menus e links).
+<nav> — Área de navegação
 
-<main> — Conteúdo principal da página (único por documento).
+<main> — Conteúdo principal (único por documento)
 
-<section> — Agrupa conteúdos relacionados.
+<section> — Agrupa conteúdos relacionados
 
-<article> — Conteúdo independente (posts, notícias, cards).
+<article> — Conteúdo independente
 
-<aside> — Conteúdo complementar ou lateral.
+<aside> — Conteúdo complementar/lateral
 
-<footer> — Rodapé da página ou de uma seção.
+<footer> — Rodapé
 
 🔠 Títulos e texto
 
-<h1> a <h6> — Definem níveis de títulos e hierarquia do conteúdo.
+<h1> a <h6> — Hierarquia de títulos
 
-<p> — Parágrafo de texto.
+<p> — Parágrafo
 
-<span> — Elemento inline para estilização ou manipulação de texto.
+<span> — Elemento inline
 
-<div> — Elemento genérico para agrupar conteúdo em bloco.
+<div> — Elemento genérico em bloco
 
 🔗 Links e mídias
 
-<a> — Cria links para outras páginas ou recursos.
+<a> — Links
 
-<img> — Exibe imagens na página.
+<img> — Imagens
 
 📋 Listas
 
-<ul> — Lista não ordenada.
+<ul> — Lista não ordenada
 
-<ol> — Lista ordenada.
+<ol> — Lista ordenada
 
-<li> — Item de lista.
+<li> — Item da lista
 
 📊 Tabelas
 
-<table> — Cria uma tabela.
+<table> — Tabela
 
-<thead> — Cabeçalho da tabela.
+<thead> — Cabeçalho
 
-<tbody> — Corpo da tabela.
+<tbody> — Corpo
 
-<tr> — Linha da tabela.
+<tr> — Linha
 
-<th> — Célula de cabeçalho.
+<th> — Célula de cabeçalho
 
-<td> — Célula de dados.
+<td> — Célula de dados
 
 📝 Formulários
 
-<form> — Cria um formulário para envio de dados.
+<form> — Formulário
 
-<label> — Rótulo para campos de formulário.
+<label> — Rótulo
 
-<input> — Campo de entrada de dados (texto, senha, email, etc.).
+<input> — Campo de entrada
 
-<textarea> — Campo de texto longo.
+<textarea> — Texto longo
 
-<button> — Botão clicável.
+<button> — Botão
 
-<select> — Lista suspensa (dropdown).
+<select> — Lista suspensa
 
-<option> — Opção dentro do <select>.
+<option> — Opção da lista
 
 🎨 CSS — Estilização e Layout
 🎨 Estilos básicos
 
-color — Define a cor do texto.
+color
 
-background-color — Define a cor de fundo do elemento.
+background-color
 
-background-image — Define uma imagem como fundo.
+background-image
 
-opacity — Define a transparência do elemento.
+opacity
 
 📐 Tamanho e espaçamento
 
-width — Define a largura do elemento.
+width
 
-height — Define a altura do elemento.
+height
 
-margin — Define o espaçamento externo.
+margin
 
-padding — Define o espaçamento interno.
+padding
 
 🧱 Bordas e sombras
 
-border — Define bordas (espessura, estilo e cor).
+border
 
-border-radius — Arredonda os cantos do elemento.
+border-radius
 
-box-shadow — Cria sombras ao redor do elemento.
+box-shadow
 
-🔠 Texto e tipografia
+🔠 Tipografia
 
-font-family — Define a fonte do texto.
+font-family
 
-font-size — Define o tamanho da fonte.
+font-size
 
-font-weight — Define a espessura do texto.
+font-weight
 
-line-height — Define o espaçamento entre linhas.
+line-height
 
-text-align — Alinha o texto.
+text-align
 
-text-transform — Transforma o texto (maiúsculo, minúsculo).
+text-transform
 
 📦 Layout e posicionamento
 
-display — Define o tipo de exibição (block, inline, flex, grid).
+display
 
-position — Define o tipo de posicionamento do elemento.
+position
 
-top, right, bottom, left — Controlam o deslocamento do elemento.
+top, right, bottom, left
 
-z-index — Controla a sobreposição dos elementos.
+z-index
 
 🔲 Flexbox
 
-display: flex — Ativa o Flexbox.
+display: flex
 
-flex-direction — Define a direção dos itens.
+flex-direction
 
-justify-content — Alinha os itens no eixo principal.
+justify-content
 
-align-items — Alinha os itens no eixo secundário.
+align-items
 
-gap — Define espaçamento entre os itens.
+gap
 
 📱 Responsividade
 
-@media — Define estilos para diferentes tamanhos de tela.
+@media
 
-overflow — Controla o conteúdo que ultrapassa o elemento.
+overflow
 
 ⚡ JavaScript — Interatividade e Lógica
 🧩 Conceitos básicos
 
-var, let, const — Declaração de variáveis.
+var, let, const
 
-typeof — Retorna o tipo de uma variável.
+typeof
 
-console.log() — Exibe informações no console.
+console.log()
 
 🔢 Tipos de dados
 
-String — Texto.
+String
 
-Number — Números.
+Number
 
-Boolean — Verdadeiro ou falso.
+Boolean
 
-Array — Lista de valores.
+Array
 
-Object — Estrutura de dados com propriedades.
+Object
 
 🔁 Estruturas de controle
 
-if / else — Estruturas condicionais.
+if / else
 
-switch — Múltiplas condições.
+switch
 
-for — Laço de repetição.
+for
 
-while — Laço baseado em condição.
+while
 
-forEach() — Iteração de arrays.
+forEach()
 
 🧮 Funções
 
-function — Declaração de função.
+function
 
-return — Retorna um valor.
+return
 
-arrow function (=>) — Função de sintaxe reduzida.
+Arrow functions =>
 
-🌐 DOM (Document Object Model)
+🌐 DOM
 
-document.getElementById() — Seleciona elemento pelo ID.
+document.getElementById()
 
-document.querySelector() — Seleciona um elemento via seletor CSS.
+document.querySelector()
 
-document.querySelectorAll() — Seleciona vários elementos.
+document.querySelectorAll()
 
-innerHTML — Manipula o conteúdo HTML.
+innerHTML
 
-classList.add() — Adiciona classes CSS.
+classList.add()
 
-classList.remove() — Remove classes CSS.
+classList.remove()
 
 🖱️ Eventos
 
-addEventListener() — Adiciona eventos aos elementos.
+addEventListener()
 
-click — Evento de clique.
+click
 
+submit
+
+keydown
 
 🎯 Objetivo do Repositório
 
 Este repositório é destinado a aprendizado, prática e consulta, servindo como base para estudos de desenvolvimento front-end com HTML, CSS e JavaScript.
-
-submit — Evento de envio de formulário.
-
-keydown — Evento de tecla pressionada.
